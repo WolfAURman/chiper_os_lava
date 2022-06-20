@@ -2,8 +2,8 @@
   "response": [
     {
       "datetime": 1230764400,
-      "filename": "LAVA",
-      "id": "5eb63bbbe01eeed093cb22bb8f5acdc3",
+      "filename": "CipherOS-3.6-STRIKE-cipher_lava-20220620-1712-UNOFFICIAL-VANILLA.zip",
+      "id": "5eb63bbbe01eeed093cb22bb8f5acdc3444",
       "romtype": "nightly",
       "size": 314572800,
       "url": "https://github.com/WolfAURman/chiper_os_update/releases/download/CipherOS-3.6-STRIKE-cipher_lava-20220620-1712-UNOFFICIAL-VANILLA/CipherOS-3.6-STRIKE-cipher_lava-20220620-1712-UNOFFICIAL-VANILLA.zip",
